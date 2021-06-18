@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Ivan De Martino.'
-    content: "\U0001F44B¡Hi! I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising\U0001F4CA. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.\n\n"
+    content: "###### \U0001F44B¡Hi! I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising\U0001F4CA. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.\n"
   - section_id: about
     type: section_content
     title: About

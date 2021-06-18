@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: >-
+  Outbound Specialist -❤ Video games - SEM - Advertise Junior - Traffic Manager
+  - Digital Advertising
 img_path: /images/Untitled design.png
 img_alt: Portrait of a man with beard and mustache
 seo:

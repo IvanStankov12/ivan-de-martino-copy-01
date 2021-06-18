@@ -31,13 +31,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
+👋¡Hi! I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising📊. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+👾 Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+🤝 I offer my services to anyone willing to adapt itself to actual changes that happen. In regards: have more visibility, traffic and conversions in their startup.📚 I'm a current student of Platzi, where I have strengthened my self-taught skills in the area of Digital Marketing and even more.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+If you would like to communicate with me and know a little bit more about myself, You are welcome to send me a direct message or write me down to my email😃: ivanjacode@gmail.com.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*

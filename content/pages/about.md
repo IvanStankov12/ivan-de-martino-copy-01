@@ -39,25 +39,12 @@ Hello, I'm a self-taught person who's is always ready to learn new things. I do 
 
 Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.
 
-
-
 # Specialities
 
 Google ads, Facebook ads, Instagram ads, Twitter ads, copywriting, planner, Google Analytics and Google Data Studio.
 
-
-
 # Trajectory
 
-Right now I'm an advertising junior, but I have able to participate in a contest, where did I put myself to the proof my skills of teamwork and knowledge, Finally we get a special mention from the judges. They said, " We do a process very complete, a strategy very achievable and according to the judge, it can be started".
+Right now I'm an advertiser junior, but I have able to participate in a contest, where I put myself to demonstrate my teamwork skills and knowledge, Finally, we got a special mention from the judges. They said, " They did a process very complete, a strategy very achievable and according to the judge, it can be started".
 
 Also, I've helped organize the marketing and advertising strategy of Mapri. Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.
-
-
-
-
-
-
-
-
-

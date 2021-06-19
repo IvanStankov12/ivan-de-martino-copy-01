@@ -47,10 +47,6 @@ Right now I'm an advertiser junior, but I have able to participate in a contest,
 
 Also, I've helped organize the marketing and advertising strategy of Mapri. Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.
 
-
-
 # Recent project
 
-Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.
-
- 
+Video Games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.

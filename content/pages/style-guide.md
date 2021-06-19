@@ -36,3 +36,24 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
+
+
+
+
+
+
+
+I participated in a contest at Platzi, where I had to digitize a real restaurant. I worked as a team with Mara Maiguel Prince and we got a special mention.
+
+My tasks were:
+
+\- Outbound Specialist.
+\- Planner.
+\- Content writing and copywriting.
+\- Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
+
+
+ 
+ 
+ 
+ 

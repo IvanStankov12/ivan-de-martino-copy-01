@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Job offer
-          - 'I need you help '
+          - 'I need your help '
           - Other
       - input_type: textarea
         name: message

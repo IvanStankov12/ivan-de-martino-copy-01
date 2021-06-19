@@ -36,8 +36,9 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing" target="_blank"/> <strong/> Check project 
-<a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
+![](/\_static/app-assets/images/makreitnplate.PNG) 
+<a href="https://imgur.com/oBKKxiX"> <img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
+<a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing" target="_blank"/> <strong/> Check project 
 
 I participated in a contest at Platzi, where I had to digitize a real restaurant. I worked as a team with Mara Maiguel Prince and we got a special mention.
 
@@ -49,3 +50,16 @@ My tasks were:
 - Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
 
 <a href= "https://platzi.com/blog/olimpiadas-premiacion-marketing-in-a-plate/" target="_blank"/> <strong/> Check contest blog
+
+# Mapri
+
+<a href="https://imgur.com/Eng6idW"><img src="https://i.imgur.com/Eng6idW.png" title="source: imgur.com" /></a>
+
+Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.
+
+My tasks were:
+
+-Digital market analysts (audiences and competition).
+-Planner.
+-Content writing and copywriting.
+-Advertiser.

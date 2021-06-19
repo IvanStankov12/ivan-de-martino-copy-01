@@ -41,37 +41,37 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/ivandemartinoo",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/ivandemartinoo/",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
-                "label": "GitHub",
+                "label": "Youtube",
                 "url": "https://github.com/",
                 "style": "icon",
-                "icon_class": "github",
+                "icon_class": "youtube",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/ivan-campo-de-martino-906428172/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "Twitch",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "twitch",
                 "new_window": true
             }
         ]

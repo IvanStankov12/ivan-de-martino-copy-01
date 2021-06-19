@@ -64,5 +64,5 @@ My tasks were:
 -Content writing and copywriting.<br/>
 -Advertiser.
 
-<a href= "https://www.instagram.com/mapriesenciayestilo/" target="_blank"/> <strong/> View project 
+<a href= "https://www.instagram.com/mapriesenciayestilo/" target="_blank"/> <strong/> View project
 

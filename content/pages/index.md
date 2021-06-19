@@ -9,7 +9,10 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: "\U0001F47E Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.\n\n"
+    content: >
+      Video games have been in my life for a long time, that is the reason I
+      want help with my digital marketing skills to grow the video game
+      industry. I know that digital marketing is a fundamental piece.
     actions:
       - label: Contact Me
         url: /contact

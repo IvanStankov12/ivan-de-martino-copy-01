@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  Outbound Specialist -❤ Video games - SEM - Advertise Junior - Traffic Manager
-  - Digital Advertising
+  Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager -
+  Digital Advertising
 img_path: /images/Untitled design.png
 img_alt: Portrait of a man with beard and mustache
 seo:

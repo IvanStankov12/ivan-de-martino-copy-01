@@ -36,4 +36,4 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG)<https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing>
+<https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing>![](https://i.imgur.com/oBKKxiX.png)

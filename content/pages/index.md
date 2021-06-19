@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >
-      Video games have been in my life for a long time, that is the reason I
+      Video Games have been in my life for a long time, that is the reason I
       want help with my digital marketing skills to grow the video game
       industry. I know that digital marketing is a fundamental piece.
     actions:

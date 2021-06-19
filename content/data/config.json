@@ -1,5 +1,5 @@
 {
-    "title": "Ivan Campo De Martino",
+    "title": "Ivan De Martino",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
@@ -72,7 +72,7 @@
         ]
     },
     "footer": {
-        "content": "Ivan Campo De Martino | All Rights Reserved &copy; 2021"
+        "content": "Ivan De Martino | All Rights Reserved &copy; 2021"
     },
     "domain": "https://ivan-de-martino-c3762.netlify.app"
 }

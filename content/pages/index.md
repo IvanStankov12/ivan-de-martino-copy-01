@@ -5,7 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Ivan De Martino.'
-    content: "¡Hi! I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising\U0001F4CA. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers.\n"
+    content: >+
+      Outbound Specialist -❤ Video games - SEM - Advertise Junior - Traffic
+      Manager - Digital Advertising
+
   - section_id: about
     type: section_content
     title: About

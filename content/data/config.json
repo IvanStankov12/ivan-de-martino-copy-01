@@ -76,6 +76,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "Ivan "
+    },
     "domain": "https://ivan-de-martino-c3762.netlify.app"
 }

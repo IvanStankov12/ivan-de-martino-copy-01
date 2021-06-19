@@ -2,7 +2,8 @@
     "title": "Ivan De Martino",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "blue"
+    "palette": "blue",
+    
     "header": {
         "title": "Ivan De Martino",
         "tagline": "We need to keep learning",

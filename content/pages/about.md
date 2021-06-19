@@ -33,11 +33,31 @@ seo:
       relativeUrl: true
 layout: page
 ---
-👋¡Hi! I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising📊. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.
+# Who I am?
 
-👾 Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.
+Hello, I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.
 
-🤝 I offer my services to anyone willing to adapt itself to actual changes that happen. In regards: have more visibility, traffic and conversions in their startup.📚 I'm a current student of Platzi, where I have strengthened my self-taught skills in the area of Digital Marketing and even more.
+Video games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. I know that digital marketing is a fundamental piece.
 
-If you would like to communicate with me and know a little bit more about myself, You are welcome to send me a direct message or write me down to my email😃: ivanjacode@gmail.com.
+
+
+# Specialities
+
+Google ads, Facebook ads, Instagram ads, Twitter ads, copywriting, planner, Google Analytics and Google Data Studio.
+
+
+
+# Trajectory
+
+Right now I'm an advertising junior, but I have able to participate in a contest, where did I put myself to the proof my skills of teamwork and knowledge, Finally we get a special mention from the judges. They said, " We do a process very complete, a strategy very achievable and according to the judge, it can be started".
+
+Also, I've helped organize the marketing and advertising strategy of Mapri. Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.
+
+
+
+
+
+
+
+
 

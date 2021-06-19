@@ -36,5 +36,16 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"/> Check project 
+![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"/> <strong/> Check project 
 <a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
+
+I participated in a contest at Platzi, where I had to digitize a real restaurant. I worked as a team with Mara Maiguel Prince and we got a special mention.
+
+My tasks were:
+
+- Outbound Specialist.
+- Planner.
+- Content writing and copywriting.
+- Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
+
+<a href= "https://platzi.com/blog/olimpiadas-premiacion-marketing-in-a-plate/"/> <strong/> Check contest blog

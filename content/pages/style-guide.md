@@ -36,4 +36,4 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"> See the project <\a>
+![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"/> See the project 

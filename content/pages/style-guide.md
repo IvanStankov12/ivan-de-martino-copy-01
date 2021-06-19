@@ -37,3 +37,4 @@ layout: page
 Digitization of a restaurant -  Contest
 
 ![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"/> Check project 
+<a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>

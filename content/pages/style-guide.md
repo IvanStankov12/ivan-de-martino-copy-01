@@ -36,4 +36,4 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-<https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing>![](https://i.imgur.com/oBKKxiX.png)
+![](https://i.imgur.com/oBKKxiX.png)

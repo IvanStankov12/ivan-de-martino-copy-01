@@ -45,6 +45,6 @@ Google ads, Facebook ads, Instagram ads, Twitter ads, copywriting, planner, Goog
 
 # Trajectory
 
-Right now I'm an advertiser junior, but I have able to participate in a contest, where I put myself to demonstrate my teamwork skills and knowledge, Finally, we got a special mention from the judges. They said, " They did a process very complete, a strategy very achievable and according to the judge, it can be started".
+Right now I'm an advertiser junior, but I have able to participate in a contest, where I put myself to demonstrate my teamwork skills and knowledge, Finally, we got a special mention from the judges. They said, " They did a process very complete, a strategy very achievable and according to the judge, it can be started" ( *you can see this project on my portfolio*).
 
 Also, I've helped organize the marketing and advertising strategy of Mapri. Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.

@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 seo:
-  title: Theme Style Guide
+  title: Portfolio
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
@@ -36,4 +36,4 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG)<https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing>
+![](/\_static/app-assets/images/makreitnplate.PNG) <a href= "https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing"> See the project <\a>

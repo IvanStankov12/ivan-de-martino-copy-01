@@ -36,4 +36,3 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-![](https://i.imgur.com/oBKKxiX.png)

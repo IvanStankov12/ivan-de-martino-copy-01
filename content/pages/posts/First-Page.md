@@ -5,9 +5,9 @@ excerpt: >-
   parenting into his or her business activities. They are sometimes referred to
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2021-06-19'
-thumb_img_path: <a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
+thumb_img_path: https://imgur.com/oBKKxiX
 thumb_img_alt: A man sitting at the table
-content_img_path: <a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
+content_img_path: https://imgur.com/oBKKxiX
 content_img_alt: A man sitting at the table
 seo:
   title: The Advantages and Disadvantages of Working from Home

@@ -60,18 +60,13 @@
                 "icon_class": "youtube",
                 "new_window": true
             },
+            
+            
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/ivan-campo-de-martino-906428172/",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "Twitch",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "twitch",
                 "new_window": true
             }
         ]

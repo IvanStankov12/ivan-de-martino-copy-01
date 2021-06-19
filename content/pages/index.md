@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Ivan Campo De Martino.'
+    title: 'Hi, I''m Ivan Campo De Martino'
     content: >
       Outbound Specialist - Video games - SEM - Advertise Junior - Traffic
       Manager - Digital Advertising

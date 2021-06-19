@@ -34,6 +34,6 @@ layout: page
 ---
 # El mono
 
-Digitization of a restaurant -  Contest 
+Digitization of a restaurant -  Contest
 
-![](/\_static/app-assets/images/makreitnplate.PNG)
+![](/\_static/app-assets/images/makreitnplate.PNG)<https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing>

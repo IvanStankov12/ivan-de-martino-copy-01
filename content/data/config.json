@@ -69,11 +69,18 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "Dev",
+                "url": "https://dev.to/",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
             }
         ]
     },
     "footer": {
-        "content": "Ivan De Martino | All Rights Reserved &copy; 2021"
+        "content": "Ivan Campo De Martino, colombia | All Rights Reserved &copy; 2021"
     },
     "domain": "https://ivan-de-martino-c3762.netlify.app"
 }

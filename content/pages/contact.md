@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Job offer
-          - Service
+          - 'I need to help '
           - Other
       - input_type: textarea
         name: message

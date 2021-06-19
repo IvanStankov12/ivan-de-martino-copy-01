@@ -36,13 +36,6 @@ layout: page
 
 Digitization of a restaurant -  Contest
 
-
-
-
-
-
-
-
 I participated in a contest at Platzi, where I had to digitize a real restaurant. I worked as a team with Mara Maiguel Prince and we got a special mention.
 
 My tasks were:
@@ -53,7 +46,14 @@ My tasks were:
 \- Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
 
 
- 
- 
- 
- 
+
+# Mapri
+
+Mapri is a project that aims to publicize African and Afro-descendant culture, through the sale of headscarf.
+
+My tasks were:
+
+\-Digital market analysts (audiences and competition).
+\-Planner.
+\-Content writing and copywriting.
+

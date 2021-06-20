@@ -40,7 +40,7 @@ seo:
       value: Ivan De Martino
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/my-photo200.png
+      value: /_static/app-assets/images/good-mango.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -43,7 +43,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/famous-potato.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

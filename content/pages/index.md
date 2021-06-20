@@ -57,8 +57,7 @@ seo:
       relativeUrl: true
     - name: 'og:description'
       value: >-
-        Video Games have been in my life for a long time, that is the reason I
-        want help with my digital marketing skills to grow the video game
+        I want help with my digital marketing skills to grow the video game
         industry.
       keyName: property
       relativeUrl: false

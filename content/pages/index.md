@@ -29,7 +29,9 @@ sections:
         style: button
 seo:
   title: Ivan De Martino
-  description: The preview of the Fresh theme
+  description: >-
+    Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
+    /Digital Advertising
   extra:
     - name: 'og:type'
       value: website

@@ -53,7 +53,7 @@ seo:
         want help with my digital marketing skills to grow the video game
         industry.
     - name: 'twitter:image'
-      value: /_static/app-assets/images/polite-mars.png
+      value: /_static/app-assets/images/Untitled%20design.png
       relativeUrl: true
     - name: 'og:description'
       value: >-

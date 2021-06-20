@@ -28,8 +28,10 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Ivan De Martino
+  description: >-
+    Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
+    /Digital Advertising
   extra:
     - name: 'og:type'
       value: website

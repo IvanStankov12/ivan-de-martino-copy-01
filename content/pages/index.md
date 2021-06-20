@@ -37,23 +37,30 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Ivan De Martino
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/famous-potato.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Ivan De Martino
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Video Games have been in my life for a long time, that is the reason I
+        want help with my digital marketing skills to grow the video game
+        industry.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/polite-mars.png
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Video Games have been in my life for a long time, that is the reason I
+        want help with my digital marketing skills to grow the video game
+        industry.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---

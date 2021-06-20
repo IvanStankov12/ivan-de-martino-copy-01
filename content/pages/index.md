@@ -53,10 +53,7 @@ seo:
       value: /_static/app-assets/images/festive-mars.png
       relativeUrl: true
     - name: 'og:description'
-      value: >-
-        Video Games have been in my life for a long time, that is the reason I
-        want help with my digital marketing skills to grow the video game
-        industry.
+      value: ' I want help with my digital marketing skills to grow the video game industry.'
       keyName: property
       relativeUrl: false
 layout: advanced

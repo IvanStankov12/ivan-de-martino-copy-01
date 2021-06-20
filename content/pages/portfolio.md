@@ -8,12 +8,11 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Portfolio
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+         I participated in a contest at Platzi, where I had to digitize a real restaurant.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -38,8 +37,6 @@ Digitization of a restaurant -  Contest
 
 <a href="https://imgur.com/oBKKxiX"><img src="https://i.imgur.com/oBKKxiX.png" title="source: imgur.com" /></a>
 
-<a class="event-url" href="https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing" target="_blank">View project</a>
-
 I participated in a contest at Platzi, where I had to digitize a real restaurant. I worked as a team with Mara Maiguel Prince and we got a special mention.
 
 My tasks were:
@@ -49,7 +46,7 @@ My tasks were:
 \- Content writing and copywriting.
 \- Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
 
-
+<a class="event-url" href="https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing" target="_blank"><strong>View project</strong></a>
 
 # Mapri
 
@@ -63,5 +60,5 @@ My tasks were:
 \-Planner.
 \-Content writing and copywriting.
 
-<a class="event-url" href="https://www.instagram.com/ivandemartinoo/" target="_blank">View project</a>
+<a class="event-url" href="https://www.instagram.com/ivandemartinoo/" target="_blank"><strong>View project</strong></a>
 

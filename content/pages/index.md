@@ -40,7 +40,7 @@ seo:
       value: Ivan De Martino
       keyName: property
     - name: 'og:image'
-      value: <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" /></a>
+      value: /_static/app-assets/images/2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

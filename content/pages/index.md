@@ -39,9 +39,6 @@ seo:
     - name: 'og:title'
       value: Ivan De Martino
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/famous-potato.png
       keyName: property

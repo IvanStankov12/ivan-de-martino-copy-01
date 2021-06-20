@@ -3,7 +3,7 @@ title: About Me
 subtitle: >-
   Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager -
   Digital Advertising
-img_path: /images/Untitled design.png
+img_path:
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
@@ -33,6 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+<a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="600" height="600"/></a>
+
 # Who I am?
 
 Hello, I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers. I like communicating with other people about the new technologies so far, so we can be updated.

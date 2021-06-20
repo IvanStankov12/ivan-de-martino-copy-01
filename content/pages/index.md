@@ -28,7 +28,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Ivan De Martino
+  title: Ivan De Martino | Digital Marketing for Video Games
   description: >-
     Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
     /Digital Advertising

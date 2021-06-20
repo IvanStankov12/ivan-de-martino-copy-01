@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/polite-mars.png
       relativeUrl: true
     - name: 'og:description'
       value: >-

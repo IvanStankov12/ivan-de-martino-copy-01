@@ -48,9 +48,7 @@ seo:
     - name: 'twitter:title'
       value: Ivan De Martino
     - name: 'twitter:description'
-      value: >-
-        I want help with my digital marketing skills to grow the video game
-        industry.
+      value: 'I want help with my digital marketing skills '
     - name: 'twitter:image'
       value: /_static/app-assets/images/festive-mars.png
       relativeUrl: true

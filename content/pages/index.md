@@ -51,7 +51,7 @@ seo:
       value: >-
         Video Games have been in my life for a long time, that is the reason I
         want help with my digital marketing skills to grow the video game
-        industry.
+        industryy.
     - name: 'twitter:image'
       value: /_static/app-assets/images/polite-mars.png
       relativeUrl: true

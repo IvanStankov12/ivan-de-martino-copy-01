@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="500" height="300"/></a>
+<a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="500" height="600"/></a>
 
 # Who I am?
 

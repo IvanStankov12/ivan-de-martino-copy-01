@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Ivan De Martino",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
@@ -48,7 +48,7 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/ivandemartinoo/",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
@@ -62,7 +62,7 @@
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/ivan-campo-de-martino-906428172/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
@@ -77,7 +77,7 @@
         ]
     },
     "footer": {
-        "content": "Ivan Campo De Martino, colombia | all right reserved  © 2021"
+        "content": "Ivan De Martino, colombia | all right reserved  © 2021"
     },
-    "domain": "https://ivan-de-martino-c3762.netlify.app"
+    "domain": "https://www.ivandemartino.com/"
 }

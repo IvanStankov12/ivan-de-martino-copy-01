@@ -6,7 +6,7 @@
     "header": {
         "title": "Ivan De Martino",
         "tagline": "We need to keep learning",
-        "profile_img": "/images/Untitled design.png",
+        "profile_img": "/images/Capture.PNG",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -80,5 +80,5 @@
         "content": "Ivan De Martino, colombia | all right reserved  © 2021"
     },
     "domain": "https://www.ivandemartino.com",
-    "favicon": "/images/download.png"
+    "favicon": "/images/elite-dolphin.PNG"
 }

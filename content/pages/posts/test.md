@@ -39,6 +39,10 @@ seo:
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
+    - name: 'twitter:image'
+      value: /_static/app-assets/images/mighty-comet.PNG
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 

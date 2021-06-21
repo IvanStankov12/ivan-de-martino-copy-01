@@ -3,7 +3,7 @@ title: About Me
 subtitle: >-
   Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager -
   Digital Advertising
-img_path:
+img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
@@ -19,7 +19,7 @@ seo:
       value: This is the about me page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /_static/app-assets/images/Untitled%20design.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -49,7 +49,7 @@ seo:
     - name: 'og:description'
       value: >-
         If you need help with Digital Marketing for your indie Video Game. Not
-        Don't 
+        Don't hesitate 
       keyName: property
     - name: 'twitter:card'
       value: summary

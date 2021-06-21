@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero 
     content: >
-     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  &nbsp;  <h1> Ivan De Martino 
+     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  &nbsp;  <h1> Ivan De Martino </h1>
      <br/> <br/> <a href="https://imgur.com/DbXzjzW"><img src="https://i.imgur.com/DbXzjzW.png" title="source: imgur.com" width="50" high="50" /></a> DMartino
 
   - section_id: about

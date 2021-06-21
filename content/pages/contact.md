@@ -44,7 +44,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact to Ivan De Martino
+      value: Contact Ivan De Martino
       keyName: property
     - name: 'og:description'
       value: This is the contact page

@@ -11,11 +11,13 @@ sections:
     type: section_content
     title: About
     content: >
-     <a  href="https://imgur.com/z1NBO4j"> <img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width= "300" high= "300" />  </a>
-     
-      Video Games have been in my life for a long time, that is the reason I
-      want help with my digital marketing skills to grow the video game
-      industry. I know that digital marketing is a fundamental piece.
+      <a  href="https://imgur.com/z1NBO4j"> <img
+      src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width=
+      "300" high= "300" />  </a>
+
+       Video Games have been in my life for a long time, that is the reason I
+       want help with my digital marketing skills to grow the video game
+       industry. I know that digital marketing is a fundamental piece.
     actions:
       - label: ABOUT Me
         url: /about
@@ -30,9 +32,7 @@ sections:
         style: button
 seo:
   title: 'Ivan De Martino '
-  description: >-
-    Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
-    / Digital Advertising
+  description: 'Here, you''ll can learn to '
   extra:
     - name: 'og:type'
       value: website

@@ -42,10 +42,6 @@ seo:
     - name: 'og:title'
       value: Ivan De Martino
       keyName: property
-    - name: 'og:image'
-      value: /_static/app-assets/images/2.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

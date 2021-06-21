@@ -7,7 +7,9 @@ img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: 'About Me '
-  description: This is the about me page
+  description: >-
+    I'm currently dedicated to creating content about advertising and marketing
+    digital for indie Video Games developers.
   extra:
     - name: 'og:type'
       value: website

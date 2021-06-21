@@ -47,7 +47,9 @@ seo:
       value: Contact Ivan De Martino
       keyName: property
     - name: 'og:description'
-      value: 'If you need help with Digital Marketing for your indie Video Game. Not '
+      value: >-
+        If you need help with Digital Marketing for your indie Video Game. Not
+        Don't 
       keyName: property
     - name: 'twitter:card'
       value: summary

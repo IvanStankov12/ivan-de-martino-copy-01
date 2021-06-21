@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Ivan De Martino' 
     content: >
-      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  <img src="image/ico-twitch.png" width="80" alt="twitch">
+      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  <img src="image/ico-twitch.jpg" width="80" alt="twitch">
   - section_id: about
     type: section_content
     title: About

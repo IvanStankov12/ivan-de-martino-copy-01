@@ -3,18 +3,23 @@ title: Home
 hide_title: true
 sections:
   - section_id: hero
-    type: section_hero 
-    content: >
+    title: 'Hi, I''m Ivan De Martino'
+    type: section_hero
+    content: |
+      Outbound and Inbound Marketing for Video Games - Outbound Specialist
   - section_id: about
     type: section_content
     title: About
     content: >
+      ![](/\_static/app-assets/images/festive-mars.png)
+
+
       Video Games have been in my life for a long time, that is the reason I
       want help with my digital marketing skills to grow the video game
       industry. I know that digital marketing is a fundamental piece.
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: ABOUT Me
+        url: /about
         style: button
   - section_id: recent-posts
     type: section_posts
@@ -55,5 +60,3 @@ seo:
       relativeUrl: false
 layout: advanced
 ---
- <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> <FONT SIZE=3> Outbound Specialist <font/>
-     <br/> <br/> <a href="https://imgur.com/DbXzjzW"><img src="https://i.imgur.com/DbXzjzW.png" title="source: imgur.com" width="50" high="50" /></a> DMartino

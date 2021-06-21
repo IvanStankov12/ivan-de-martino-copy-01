@@ -6,7 +6,7 @@ sections:
     type: section_hero 
     content: >
      <h1> Ivan De Martino </h1>
-     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  &nbsp; Outbound and Inbound marketing for Video Games
+     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a>  &nbsp; Outbound and Inbound marketing for Video Games 
      <br/> <br/> <a href="https://imgur.com/DbXzjzW"><img src="https://i.imgur.com/DbXzjzW.png" title="source: imgur.com" width="50" high="50" /></a> DMartino
 
   - section_id: about

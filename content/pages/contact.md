@@ -61,5 +61,9 @@ seo:
       value: images/contact.PNG
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/contact.PNG
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

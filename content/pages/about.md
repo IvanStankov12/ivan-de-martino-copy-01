@@ -18,7 +18,9 @@ seo:
     - name: 'og:description'
       value: >-
         I'm currently dedicated to creating content about advertising and
-        marketing digital for indie video game developers.
+        marketing digital for indie 
+
+        video game developers.
       keyName: property
     - name: 'og:image'
       value: images/Untitled%20design.png

@@ -6,7 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Ivan De Martino' 
     content: >
-      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> 
+      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> <p>
+                    Curso de desarrollo web online 2021 <img src="image/platzi.png" width="80" alt="Platzi">
+                </p>
   - section_id: about
     type: section_content
     title: About

@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: About Ivan De Martino
       keyName: property
     - name: 'og:description'
       value: >-

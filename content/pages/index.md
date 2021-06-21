@@ -6,7 +6,7 @@ sections:
     title: Hi, I'm Ivan De Martino
     type: section_hero 
     content: >
-
+     hola
 
   - section_id: about
     type: section_content

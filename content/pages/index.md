@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="600" high="600" /></a> 'Hi, I''m Ivan De Martino' 
+    title: 'Hi, I''m Ivan De Martino' 
     content: >
-      Outbound Specialist - Video games - SEM - Advertise Junior - Traffic
+      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="600" high="600" /></a> Outbound Specialist - Video games - SEM - Advertise Junior - Traffic
       Manager - Digital Advertising
   - section_id: about
     type: section_content

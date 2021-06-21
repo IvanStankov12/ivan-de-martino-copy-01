@@ -40,7 +40,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: /_static/app-assets/images/2.jpg
+      value: images/seotest.jpg
       keyName: property
       relativeUrl: true
 layout: post

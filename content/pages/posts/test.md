@@ -39,6 +39,10 @@ seo:
       value: /_static/app-assets/images/kind-zucchini.png
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: /_static/app-assets/images/royal-mint.png
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 

@@ -6,14 +6,13 @@ sections:
     title: 'Hi, I''m Ivan De Martino'
     type: section_hero
     content: |
-      Outbound and Inbound Marketing for Video Games - Outbound Specialists
+      Outbound and Inbound Marketing for Video Games - Outbound Specialist
   - section_id: about
     type: section_content
     title: About
     content: >
-      ![](/\_static/app-assets/images/festive-mars.png)
-
-
+     <a  href="https://imgur.com/z1NBO4j"> <img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width= "300" high= "300" />  </a>
+     
       Video Games have been in my life for a long time, that is the reason I
       want help with my digital marketing skills to grow the video game
       industry. I know that digital marketing is a fundamental piece.

@@ -19,7 +19,7 @@ seo:
       value: This is the about me page
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/Untitled%20design.png
+      value: images/Untitled%20design.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -19,7 +19,7 @@ sections:
       industry. I know that digital marketing is a fundamental piece.
     actions:
       - label: Contact Me
-        url: /contact
+        url: /
         style: button
   - section_id: recent-posts
     type: section_posts

@@ -16,7 +16,9 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: >-
+        I'm currently dedicated to creating content about advertising and
+        marketing digital for indie video game developers.
       keyName: property
     - name: 'og:image'
       value: images/Untitled%20design.png

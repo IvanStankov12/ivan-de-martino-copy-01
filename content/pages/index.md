@@ -3,6 +3,7 @@ title: Home
 hide_title: true
 sections:
   - section_id: hero
+     title: Hi, I'm Ivan De Martino
     type: section_hero 
     content: >
      <h1> Ivan De Martino </h1>

@@ -18,7 +18,7 @@ sections:
       want help with my digital marketing skills to grow the video game
       industry. I know that digital marketing is a fundamental piece.
     actions:
-      - label: Contact Me
+      - label: ABOUT Me
         url: /about
         style: button
   - section_id: recent-posts

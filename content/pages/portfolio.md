@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portafolio | Ivan De Martino
+      value: images/seotest.jpg
     - name: 'twitter:description'
       value: >-
         I participated in a contest at Platzi, where I had to digitize a real

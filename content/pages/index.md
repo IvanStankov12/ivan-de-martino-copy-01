@@ -31,7 +31,7 @@ seo:
   title: 'Ivan De Martino '
   description: >-
     Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
-    /Digital Advertising
+    / Digital Advertising
   extra:
     - name: 'og:type'
       value: website

@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: TEST SEO
       keyName: property
     - name: 'og:description'
       value: >-

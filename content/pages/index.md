@@ -7,8 +7,7 @@ sections:
     title: 'Hi, I''m Ivan De Martino' 
     content: >
       <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> <br/> 
-      Outbound Specialist - Video games - SEM - Advertise Junior - Traffic
-      Manager - Digital Advertising
+      
   - section_id: about
     type: section_content
     title: About

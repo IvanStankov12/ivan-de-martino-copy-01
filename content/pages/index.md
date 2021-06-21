@@ -11,7 +11,6 @@ sections:
     type: section_content
     title: About
     content: >
-      ![](/\_static/app-assets/images/festive-mars.png)
 
 
       Video Games have been in my life for a long time, that is the reason I

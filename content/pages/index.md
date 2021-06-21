@@ -7,7 +7,6 @@ sections:
     content: >
       <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> Outbound Specialist / Video games / SEM / Advertise Junior / Traffic Manager
     / Digital Advertising 
-      
       <br/> <br/> <a href="https://imgur.com/DbXzjzW"><img src="https://i.imgur.com/DbXzjzW.png" title="source: imgur.com" width="50" high="50" /></a> DMartino
   - section_id: about
     type: section_content

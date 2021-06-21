@@ -6,7 +6,7 @@ subtitle: >-
 img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
+  title: 'About Me '
   description: This is the about me page
   extra:
     - name: 'og:type'

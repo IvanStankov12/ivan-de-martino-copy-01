@@ -37,23 +37,37 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact Ivan De Martino
+  description: >-
+    If you need help with Digital Marketing for your indie Video Game. Don't
+    hesitate to contact me.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact Ivan De Martino
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        If you need help with Digital Marketing for your indie Video Game. Don't
+        hesitate to contact me.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact Ivan De Martino
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        If you need help with Digital Marketing for your indie Video Game. Don't
+        hesitate to contact me.
+    - name: 'og:image'
+      value: images/contact.PNG
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: images/contact.PNG
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

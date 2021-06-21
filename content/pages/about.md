@@ -3,33 +3,39 @@ title: About Me
 subtitle: >-
   Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager -
   Digital Advertising
-img_path:
+img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: About Me
-  description: This is the about me page
+  title: About Ivan De Martino
+  description: >-
+    I'm currently dedicated to creating content about advertising and marketing
+    digital for indie Video Games developers.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: About Ivan De Martino
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: >-
+        I'm currently dedicated to creating content about advertising and
+        marketing digital for indie Video Games developers.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/Untitled%20design.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: About Ivan De Martino
     - name: 'twitter:description'
-      value: This is the about me page
+      value: >-
+        I'm currently dedicated to creating content about advertising and
+        marketing digital for indie Video Games developers.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/Untitled%20design.png
       relativeUrl: true
 layout: page
 ---

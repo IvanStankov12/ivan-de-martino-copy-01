@@ -39,6 +39,10 @@ seo:
       value: /_static/app-assets/images/seotest.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /_static/app-assets/images/seotest.jpg
+      keyName: property
+      relativeUrl: true
 layout: post
 ---
 

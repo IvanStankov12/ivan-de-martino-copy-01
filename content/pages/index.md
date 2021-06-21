@@ -1,3 +1,4 @@
+<a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" 
 ---
 title: Home
 hide_title: true

@@ -48,8 +48,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        If you need help with Digital Marketing for your indie Video Game. Not
-        Don't hesitate 
+        If you need help with Digital Marketing for your indie Video Game. Don't
+        hesitate to contact me.
       keyName: property
     - name: 'twitter:card'
       value: summary

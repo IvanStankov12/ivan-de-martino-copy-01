@@ -2,7 +2,9 @@
 title: Portfolio
 seo:
   title: Portfolio
-  description: I participated in a contest at Platzi, where I had to digitize a real restaurant.
+  description: >-
+    I participated in a contest at Platzi, where I had to digitize a real
+    restaurant.
   extra:
     - name: 'og:type'
       value: website
@@ -12,12 +14,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-         I participated in a contest at Platzi, where I had to digitize a real restaurant.
+        I participated in a contest at Platzi, where I had to digitize a real
+        restaurant.
       keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

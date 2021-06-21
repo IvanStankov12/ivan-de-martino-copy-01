@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero 
     content: >
-      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> <h6>Outbound Specialist Video games  SEM Advertise Junior  Traffic Manager Digital Advertising <h6/>
+      <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="100" high="100" /></a> <h6>Outbound Specialist Video games  SEM Advertise Junior  Traffic Manager Digital Advertising </h6>
 
       <br/> <br/> <a href="https://imgur.com/DbXzjzW"><img src="https://i.imgur.com/DbXzjzW.png" title="source: imgur.com" width="50" high="50" /></a> DMartino
   - section_id: about

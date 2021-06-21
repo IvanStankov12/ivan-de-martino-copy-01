@@ -44,9 +44,15 @@ I participated in a contest at Platzi, where I had to digitize a real restaurant
 
 My tasks were:
 
-\- Outbound Specialist.\</br>
-\- Planner.\<br/>
-\- Content writing and copywriting.\<br/>
+\- Outbound Specialist.
+
+
+\- Planner.
+
+
+\- Content writing and copywriting.
+
+
 \- Implementation of campaigns on platforms such as Google Ads, Facebook Ads, Instagram Ads, Youtube Ads.
 
 <a class="event-url" href="https://drive.google.com/file/d/1XEjBJGu_vHcCU0vK9G3l7HAAj4AvlMvC/view?usp=sharing" target="_blank"><strong>View project</strong></a>

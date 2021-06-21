@@ -56,7 +56,9 @@ seo:
     - name: 'twitter:title'
       value: Contact Ivan De Martino
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        If you need help with Digital Marketing for your indie Video Game. Don't
+        hesitate to contact me.
     - name: 'og:image'
       value: images/contact.PNG
       keyName: property

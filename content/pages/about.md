@@ -29,7 +29,9 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: >-
+        I'm currently dedicated to creating content about advertising and
+        marketing digital for indie Video Games developers.
     - name: 'twitter:image'
       value: images/Untitled%20design.png
       relativeUrl: true

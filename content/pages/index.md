@@ -49,7 +49,7 @@ seo:
     - name: 'twitter:description'
       value: ' I want help with my digital marketing skills to grow the video game industry. '
     - name: 'twitter:image'
-      value: /_static/app-assets/images/2.jpg
+      value: images/majestic-turmeric.png
       relativeUrl: true
     - name: 'og:description'
       value: ' I want help with my digital marketing skills to grow the video game industry.'

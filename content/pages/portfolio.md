@@ -28,6 +28,10 @@ seo:
     - name: 'twitter:image'
       value: /_static/app-assets/images/adorable-eucalyptus.PNG
       relativeUrl: true
+    - name: 'og:image'
+      value: /_static/app-assets/images/seotest.jpg
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 # El mono

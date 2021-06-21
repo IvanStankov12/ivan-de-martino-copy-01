@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >
-     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" /></a>
+     <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" /> width= ""</a>
 
       Video Games have been in my life for a long time, that is the reason I
       want help with my digital marketing skills to grow the video game

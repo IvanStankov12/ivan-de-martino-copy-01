@@ -55,5 +55,9 @@ seo:
       value: ' I want help with my digital marketing skills to grow the video game industry.'
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /_static/app-assets/images/festive-mars.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

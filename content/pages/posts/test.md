@@ -28,7 +28,7 @@ seo:
         bushes.
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: TEST SEO
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -56,7 +56,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /_static/app-assets/images/majestic-turmeric.png
+      value: images/majestic-turmeric.png
       keyName: property
       relativeUrl: true
 layout: advanced

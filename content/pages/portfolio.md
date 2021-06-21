@@ -28,6 +28,10 @@ seo:
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
+    - name: 'og:image'
+      value: /_static/app-assets/images/diligent-kangaroo.PNG
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 # El mono

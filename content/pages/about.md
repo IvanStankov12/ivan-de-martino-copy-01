@@ -20,7 +20,9 @@ seo:
         I'm currently dedicated to creating content about advertising and
         marketing digital for indie 
 
-        video game developers.
+        Video 
+
+        ame developers.
       keyName: property
     - name: 'og:image'
       value: images/Untitled%20design.png

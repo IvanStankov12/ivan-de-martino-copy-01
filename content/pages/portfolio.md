@@ -26,7 +26,7 @@ seo:
         A reference for suggested typographic treatment and styles for your
         content
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /_static/app-assets/images/adorable-eucalyptus.PNG
       relativeUrl: true
     - name: 'og:image'
       value: /_static/app-assets/images/diligent-kangaroo.PNG

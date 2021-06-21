@@ -6,7 +6,7 @@ sections:
     title: Hi, I'm Ivan De Martino
     type: section_hero 
     content: >
-    Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager - Digital Advertising
+    Outbound Specialist
 
   - section_id: about
     type: section_content

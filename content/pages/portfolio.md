@@ -23,8 +23,8 @@ seo:
       value: Portafolio | Ivan De Martino
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        I participated in a contest at Platzi, where I had to digitize a real
+        restaurant.
     - name: 'twitter:image'
       value: /_static/app-assets/images/adorable-eucalyptus.PNG
       relativeUrl: true

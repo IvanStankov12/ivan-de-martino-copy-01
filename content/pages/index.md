@@ -32,7 +32,7 @@ sections:
         style: button
 seo:
   title: 'Ivan De Martino '
-  description: 'Here, you''ll can learn how to launch'
+  description: 'Here, you''ll can learn how to launch your indie Video Game'
   extra:
     - name: 'og:type'
       value: website

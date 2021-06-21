@@ -38,7 +38,9 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact Ivan De Martino
-  description: This is the contact page
+  description: >-
+    If you need help with Digital Marketing for your indie Video Game. Don't
+    hesitate to contact me.
   extra:
     - name: 'og:type'
       value: website

@@ -5,6 +5,7 @@ sections:
   - section_id: hero
     type: section_hero 
     content: >
+    
   - section_id: about
     type: section_content
     title: About

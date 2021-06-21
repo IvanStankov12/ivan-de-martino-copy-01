@@ -6,7 +6,7 @@ subtitle: >-
 img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:
-  title: 'About Me '
+  title: About Ivan De Martino
   description: >-
     I'm currently dedicated to creating content about advertising and marketing
     digital for indie Video Games developers.

@@ -28,7 +28,7 @@ seo:
         bushes.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/pleasant-mustard.PNG
+      value: /_static/app-assets/images/seotest.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

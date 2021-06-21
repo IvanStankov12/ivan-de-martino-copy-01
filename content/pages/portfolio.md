@@ -59,8 +59,8 @@ Mapri is a project that aims to publicize African and Afro-descendant culture, t
 
 My tasks were:
 
-\-Digital market analysts (audiences and competition).
-\-Planner.
+\-Digital market analysts (audiences and competition).<br>
+\-Planner.<br>
 \-Content writing and copywriting.
 
 <a class="event-url" href="https://www.instagram.com/ivandemartinoo/" target="_blank"><strong>View project</strong></a>

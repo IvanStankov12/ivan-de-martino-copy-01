@@ -57,5 +57,9 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+    - name: 'og:image'
+      value: /_static/app-assets/images/contact.PNG
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---

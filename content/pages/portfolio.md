@@ -26,7 +26,7 @@ seo:
         I participated in a contest at Platzi, where I had to digitize a real
         restaurant.
     - name: 'twitter:image'
-      value: /_static/app-assets/images/adorable-eucalyptus.PNG
+      value: images/seotest.jpg
       relativeUrl: true
     - name: 'og:image'
       value: images/seotest.jpg

@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Portafolio | Ivan De Martino
       keyName: property
     - name: 'og:description'
       value: >-

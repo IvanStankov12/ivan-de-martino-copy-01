@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: About Ivan De Martino
     - name: 'twitter:description'
       value: >-
         I'm currently dedicated to creating content about advertising and

@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: TEST SEO
+      value: How to start a marketing plan for you indie video game
     - name: 'twitter:description'
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or

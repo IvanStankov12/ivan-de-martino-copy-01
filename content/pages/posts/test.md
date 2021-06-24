@@ -1,5 +1,5 @@
 ---
-title: How to start
+title: How to start your marketing plan
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
   as such. This specifically refers to difficult walking through dense forest,

@@ -25,7 +25,7 @@ sections:
         options:
           - Job offer
           - 'I need your help '
-          - Blog commets
+          - Blog comments
       - input_type: textarea
         name: message
         label: Message

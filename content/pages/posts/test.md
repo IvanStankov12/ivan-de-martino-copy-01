@@ -1,10 +1,8 @@
 ---
 title: How to start a marketing plan for you indie video game
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  A marketing plan can be very helpful in starting and launching your video
+  game, but, what's a marketing plan?
 date: '2021-06-19'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail

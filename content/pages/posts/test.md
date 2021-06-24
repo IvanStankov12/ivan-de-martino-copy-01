@@ -7,7 +7,7 @@ date: '2021-06-19'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
-content_img_alt: Hikers on the trail
+content_img_alt: Marketing plan for your indie video game
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-

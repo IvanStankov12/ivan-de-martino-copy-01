@@ -26,6 +26,7 @@ sections:
           - Job offer
           - 'I need your help '
           - Blog comments
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

@@ -9,7 +9,7 @@ thumb_img_alt: Marketing plan for your indie video game
 content_img_path: /images/parallel-potato.PNG
 content_img_alt: Marketing plan for your indie video game
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: How to start a marketing plan for you indie video game
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.

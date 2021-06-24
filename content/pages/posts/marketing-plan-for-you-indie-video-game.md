@@ -22,8 +22,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        A marketing plan can be very helpful in starting and launching your
+        video game, but, what's a marketing plan?
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image

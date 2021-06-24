@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: TEST SEO
+      value: How to start a marketing plan for you indie video game
       keyName: property
     - name: 'og:description'
       value: >-

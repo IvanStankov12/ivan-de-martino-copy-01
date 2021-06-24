@@ -43,5 +43,36 @@ seo:
       relativeUrl: true
 layout: post
 ---
+A marketing plan can be very helpful in starting and launching your video game, but, what's a marketing plan?. It's a roadmap that you will guide through the communication process and must answer two basic questions: **What are you going to sell? How are you going to sell?.**
 
-Hello, I doing a test
+
+
+If you're able to create your own indie video game with your feeling, knowledge, imagination and creativity, those characteristics could match many people, but, you have to understand who's your target audience.
+
+Your target audience at the beginning of development can be a valuable companion because it will guide the success of your video game. The more you know and attract the right people, the more effective the feedback will be and ensure a happy ending launch. Remember that at this point, **the customer wants to be heard and that's always the case in any healthy relationship**.
+
+Therefore, you should start your marketing plan with the following topics:
+
+*   *Current situation of your video game*
+
+*   *SWOT matrix*
+
+*   *Brand positioning*
+
+*   *Branding build*
+
+*   *Define the customer's profile*
+
+*   *Customer journey*
+
+*   *SMART goals*
+
+*   *Value proposal*
+
+*   *Define communication channels*
+
+*   *Content strategies*
+
+*   *Possible advertising campaigns*
+
+In the next few articles, I'll talk in more depth about each of the topics. **Have you applied these methods to your indie video game? let me know in the comments.**

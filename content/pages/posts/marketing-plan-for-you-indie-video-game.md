@@ -38,7 +38,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:image'
-      value: images/seotest.jpg
+      value: images/charming-artichoke.PNG
       keyName: property
       relativeUrl: true
 layout: post

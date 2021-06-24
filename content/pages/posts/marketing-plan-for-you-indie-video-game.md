@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How to start a marketing plan for you indie video game
+      value: How to start a marketing plan for your indie video game
     - name: 'twitter:description'
       value: >-
         A marketing plan can be very helpful in starting and launching your

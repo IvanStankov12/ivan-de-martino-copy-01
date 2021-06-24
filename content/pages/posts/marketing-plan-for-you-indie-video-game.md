@@ -73,4 +73,4 @@ Therefore, you should start your marketing plan with the following topics:
 
 *   *Possible advertising campaigns*
 
-In the next few articles, I'll talk in more depth about each of the topics. **Have you applied these methods to your indie video game? let me know in the contacts section.**
+In the next few articles, I'll talk in more depth about each of the topics. **Have you applied these methods to your indie video game? let me know in the <a class="event-url" href="https://www.ivandemartino.com/contact/" target="_blank"><strong>contacts</strong></a> section.**

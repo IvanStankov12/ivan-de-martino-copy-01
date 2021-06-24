@@ -11,8 +11,8 @@ content_img_alt: Marketing plan for your indie video game
 seo:
   title: How to start a marketing plan for you indie video game
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    A marketing plan can be very helpful in starting and launching your video
+    game, but, what's a marketing plan?
   extra:
     - name: 'og:type'
       value: article

@@ -3,7 +3,7 @@ title: How to start a marketing plan for you indie video game
 excerpt: >-
   A marketing plan can be very helpful in starting and launching your video
   game, but, what's a marketing plan?
-date: '2021-06-19'
+date: '2021-06-02'
 thumb_img_path: /images/Blog-marketingplan.PNG
 thumb_img_alt: Marketing plan for your indie video game
 content_img_path: images/6.jpg

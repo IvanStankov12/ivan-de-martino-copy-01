@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-06-23'
 thumb_img_path: /images/Blog-marketingplan.PNG
 thumb_img_alt: Marketing plan for your indie video game
-content_img_path: images/6.jpg
+content_img_path: /images/parallel-potato.PNG
 content_img_alt: Marketing plan for your indie video game
 seo:
   title: Basic Rules For Walking In The Mountains

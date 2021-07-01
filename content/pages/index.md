@@ -10,14 +10,16 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
+    content: >+
       <a  href="https://imgur.com/z1NBO4j"> <img
       src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width=
       "300" high= "300" />  </a>
 
-       Video Games have been in my life for a long time, that is the reason I
-       want help with my digital marketing skills to grow the video game
-       industry. I know that digital marketing is a fundamental piece.
+
+      At 17 years old my self-learning began, where I first focused on learning
+      canine psychology, then my entrepreneurial mind was awakened and I started
+      educating many people about dogs.
+
     actions:
       - label: ABOUT Me
         url: /about

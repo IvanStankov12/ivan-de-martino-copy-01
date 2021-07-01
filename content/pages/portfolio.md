@@ -61,6 +61,7 @@ My tasks were:
 
 \-Digital market analysts (audiences and competition).<br>
 \-Planner.<br>
-\-Content writing and copywriting.
+\-Content writing and copywriting.<br>
+\-I made an eCommerce store with the help of Woocommerce.
 
 <a class="event-url" href="https://www.instagram.com/ivandemartinoo/" target="_blank"><strong>View project</strong></a>

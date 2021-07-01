@@ -1,6 +1,5 @@
 ---
 title: About Me
-subtitle: eCommerce - Copywriter - Video Games - Advertiser Junior - EdTech
 img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:

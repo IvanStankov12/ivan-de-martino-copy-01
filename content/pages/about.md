@@ -1,8 +1,9 @@
 ---
 title: About Me
 subtitle: >-
-  Outbound Specialist - Video games - SEM - Advertise Junior - Traffic Manager -
-  Digital Advertising
+  eCommerce | Copywriter | Video Games | Google ads | Facebook ads | Instagram
+  ads | Twitter ads | Google Analytics | Planner | Advertiser Junior | Google
+  Data Studio | EdTech
 img_path: null
 img_alt: Portrait of a man with beard and mustache
 seo:

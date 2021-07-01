@@ -43,8 +43,6 @@ subtitle: eCommerce - Video Games - EdTech
 
 Hello,  I'm a self-taught person who's is always ready to learn new things. I do have knowledge of Digital Advertising. I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers, eCommerce and EdTech. I like communicating with other people about the new technologies so far, so we can be updated.
 
-
-
 # Specialities
 
 Google ads, Facebook ads, Instagram ads, Twitter ads, copywriting, planner, Google Analytics and Google Data Studio, BI Excel, Power BI and Automation tools for marketing.
@@ -60,7 +58,5 @@ Also, I've helped organize the marketing and advertising strategy of Mapri. Mapr
 
 # Recent project
 
-I made an eCommerce store with the help of Woocommerce for Mapri and in this way, I have strengthened my Digital Marketing skills in that industry.
+I'm currently dedicated to creating content about advertising and marketing digital for indie video game developers, eCommerce and EdTech.
 
-
-Video Games have been in my life for a long time, that is the reason I want help with my digital marketing skills to grow the video game industry. 

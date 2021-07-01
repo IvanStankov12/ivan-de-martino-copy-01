@@ -6,7 +6,7 @@ sections:
     title: 'Hi, I''m Ivan De Martino'
     type: section_hero
     content: |
-      Outbound and Inbound Marketing for Video Games - Outbound Specialist
+      Outbound and Inbound Marketing - Outbound Specialist
   - section_id: about
     type: section_content
     title: About

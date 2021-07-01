@@ -35,7 +35,7 @@ seo:
       value: images/Untitled%20design.png
       relativeUrl: true
 layout: page
-subtitle: 'eCommerce - Copywriter - '
+subtitle: 'eCommerce - Copywriter - Video Games '
 ---
 <a href="https://imgur.com/z1NBO4j"><img src="https://i.imgur.com/z1NBO4j.png" title="source: imgur.com" width="600" height="600"/></a>
 
